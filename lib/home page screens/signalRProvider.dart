@@ -14,7 +14,7 @@ BuildContext? signalRContext;
 class SignalRService with ChangeNotifier {
   LoginData massage=LoginData();
   String  serverUrl ="http://192.168.1.253:8091/NotificationHub";
-  var hubConnection ;
+  var hubConnection;
 
  // StreamController<LoginData> messageStreamController = StreamController.broadcast();
 
