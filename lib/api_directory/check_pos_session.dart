@@ -1,0 +1,8 @@
+
+
+class CheckPosSession{
+
+  checkPosSession()async{
+
+  }
+}
